@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 64" preserveAspectRatio="xMinYMid slice"><defs>
+    <linearGradient id="b" x1="0" x2="1"><stop offset="0" stop-color="#4C0519" stop-opacity=".46"/><stop offset=".55" stop-color="#4C0519" stop-opacity=".12"/><stop offset="1" stop-color="#4C0519" stop-opacity=".34"/></linearGradient>
+    <linearGradient id="e" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#FB7185"/><stop offset="1" stop-color="#881337"/></linearGradient>
+    <linearGradient id="band" x1="0" x2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset=".5" stop-color="#FFFFFF" stop-opacity=".09"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+    <linearGradient id="top" x1="0" x2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".18"/><stop offset=".7" stop-color="#FFFFFF" stop-opacity=".04"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".12"/></linearGradient></defs>
+    <rect width="400" height="64" fill="#0B0C10" fill-opacity=".35"/>
+    <rect width="400" height="64" fill="url(#b)"/>
+    <g class="band"><rect x="-120" width="120" height="64" fill="url(#band)"/></g>
+    <path d="M318 32h52M380 32h12" stroke="#FB7185" stroke-opacity=".55" stroke-width="1"/><path class="gem" d="M375 26.5l5.5 5.5-5.5 5.5-5.5-5.5z" fill="#FB7185" stroke="#4C0519" stroke-width=".8"/>
+    <rect width="400" height="1" fill="url(#top)"/>
+    <rect width="3" height="64" fill="url(#e)"/></svg>
